@@ -1,12 +1,12 @@
 # Project Overview
 
-This document lists and describes various GitHub projects and pages that are relevant to our work. These references have been instrumental in the development of this project and serve as a valuable resource for understanding the broader context and related work in the field.
+This document lists and describes various GitHub projects and pages which are relevant to my work. This is a living document and will be updated regularly to highlight new ideas and directions.
 
 The document is divided into three main sections: Pre-Release (Private) Projects, Public Projects, and Projects Inspired by Others.
 
 ## Pre-Release (Private) Projects
 
-These are projects currently under development or in a pre-release stage. They are not yet publicly available but are significant to our overall development roadmap.
+These are projects currently under development or in a pre-release stage. They are not yet publicly available but are significant to the overall development roadmap.
 
 1. **Project Alpha**: This project is the work associated with FigLan 2024 
 
