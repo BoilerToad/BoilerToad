@@ -10,14 +10,14 @@ These are projects currently under development or in a pre-release stage. They a
 
 1. **Project Alpha**: This project is the work associated with FigLan 2024 
 
-2. **Project Beta**: This project related to LLMs, GNNS and research papers.
+2. **Project Beta**: This project related to ...
 
 
 ## Public Projects
 
 These projects are completed and publicly available for use or contribution.
 
-1. **[Project Delta](https://github.com/BoilerToad/projectTBD)**: Placeholdfer for a publically available project.
+1. **[Project Delta](https://github.com/BoilerToad/projectTBD)**: Placeholder for a publically available project.
 
 
 ## Projects Inspired by Others
