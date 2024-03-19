@@ -22,7 +22,7 @@ These projects are completed and publicly available for use or contribution.
 
 ## Projects Inspired by Others
 
-This section acknowledges projects and ideas that have inspired our work, with a brief description of their influence.
+This section acknowledges projects and ideas that have inspired me. These may be in various states (working?) and are more here for reference
 
 1.  **[584-final](https://github.com/BoilerToad/584-final)**: Sentence Embeddings using Supervised Contrastive Learning. Danqi Liao.
 2.  **[ACLPUB](https://github.com/BoilerToad/ACLPUB)**: The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).
