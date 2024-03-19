@@ -41,7 +41,7 @@ This section acknowledges projects and ideas that have inspired me. These may be
 15. **[langchain](https://github.com/BoilerToad/langchain)**: ⚡ Building applications with LLMs through composability ⚡
 16. **[LeafNATS](https://github.com/BoilerToad/LeafNATS)**: Learning Framework for Neural Abstractive Text Summarization
 17. **[llama](https://github.com/BoilerToad/llama)**: Inference code for LLaMA models
-18. **[medium_articles](https://github.com/BoilerToad/medium_articles)**: Scripts/Notebooks used for my articles published on Medium
+18. **[medium_articles](https://github.com/BoilerToad/medium_articles)**: Scripts/Notebooks used for articles published regarding Time series and asset allocation as reference for a data science class
 19. **[NATS](https://github.com/BoilerToad/NATS)**: Neural Abstractive Text Summarization with Sequence-to-Sequence Models
 20. **[nlp-with-transformers](https://github.com/BoilerToad/nlp-with-transformers)**: Jupyter notebooks for the Natural Language Processing with Transformers book
 21. **[PythonClass](https://github.com/BoilerToad/PythonClass)**: None
