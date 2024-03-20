@@ -8,7 +8,7 @@ The document is divided into three main sections: Pre-Release (Private) Projects
 
 These are projects currently under development or in a pre-release stage. They are not yet publicly available but are significant to the overall development roadmap.
 
-1. **Project Alpha**: This project is the work associated with FigLan 2024 
+1. **FigLang 2024 Euphemisms**: This project is the work associated with FigLan 2024 Sharted Task on Euphemisms
 
 2. **Project Beta**: This project related to ...
 
