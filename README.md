@@ -19,6 +19,11 @@ These projects are completed and publicly available for use or contribution.
 
 1. **[Project Delta](https://github.com/BoilerToad/projectTBD)**: Placeholder for a publically available project.
 
+## Projects Based on DeepLearningAI, OpenAI, Coursera ..
+
+1. **[xxx](https://github.com/BoilerToad/xxx)**: Prompt Engineering / Fine Tuning LLMs.
+2. **[xxx](https://github.com/BoilerToad/xxx)**: Align LLMs with Direct Preference Optimization (DPO).
+3. **[xxx](https://github.com/BoilerToad/xxx)**: Knowledge Graphs for RAG.
 
 ## Projects Inspired by Others
 
