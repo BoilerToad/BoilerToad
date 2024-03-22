@@ -31,7 +31,7 @@ These projects are completed and publicly available for use or contribution.
 
 This section acknowledges projects and ideas that have inspired me. These may be in various states (working?) and are more here for reference
 
-1.  **[Stanford-DSPy](https://github.com/BoilerToad/Stanford-DSPy) - DSPy: Programming with Foundation Models
+1.  **[Stanford-DSPy](https://github.com/BoilerToad/Stanford-DSPy)** - DSPy: Programming with Foundation Models
 2.  **[584-final](https://github.com/BoilerToad/584-final)**: Sentence Embeddings using Supervised Contrastive Learning. Danqi Liao.
 3.  **[ACLPUB](https://github.com/BoilerToad/ACLPUB)**: The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).
 4.  **[annotated-transformer](https://github.com/BoilerToad/annotated-transformer)**: http://nlp.seas.harvard.edu/2018/04/03/attention.html
