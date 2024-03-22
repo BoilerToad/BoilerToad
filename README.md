@@ -21,9 +21,11 @@ These projects are completed and publicly available for use or contribution.
 
 ## Projects Based on DeepLearningAI, OpenAI, Coursera ..
 
-1. **[xxx](https://github.com/BoilerToad/xxx)**: Prompt Engineering / Fine Tuning LLMs.
-2. **[Align-LLM-DPO](https://github.com/BoilerToad/Align-LLM-DPO)**: Align LLMs with Direct Preference Optimization (DPO).
-3. **[Knowledge-Graphs-for-RAG](https://github.com/BoilerToad/Knowledge-Graphs-for-RAG)**: Knowledge Graphs for RAG.
+1. **[Gen-AI-for-everyone](https://github.com/BoilerToad/Gen-AI-for-everyone)**: Generative AI for Everyone
+2. **[Build-Eval-AdvRAG](https://github.com/BoilerToad/Build-Eval-AdvRAG)**
+3. **[xxx](https://github.com/BoilerToad/xxx)**: Prompt Engineering / Fine Tuning LLMs.
+4. **[Align-LLM-DPO](https://github.com/BoilerToad/Align-LLM-DPO)**: Align LLMs with Direct Preference Optimization (DPO).
+5. **[Knowledge-Graphs-for-RAG](https://github.com/BoilerToad/Knowledge-Graphs-for-RAG)**: Knowledge Graphs for RAG.
 
 ## Projects Inspired by Others
 
