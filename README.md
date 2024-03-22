@@ -2,7 +2,7 @@
 
 This document lists and describes various GitHub projects and pages which are relevant to my work. This is a living document and will be updated regularly to highlight new ideas and directions.
 
-The document is divided into three main sections: Pre-Release (Private) Projects, Public Projects, and Projects Inspired by Others.
+The document is divided into four main sections: Pre-Release (Private) Projects, Public Projects, Projects from DeepLearning.AI, etc, and Projects Inspired by Others.
 
 ## Pre-Release (Private) Projects
 
