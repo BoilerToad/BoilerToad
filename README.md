@@ -32,7 +32,7 @@ These projects are completed and publicly available for use or contribution.
 This section acknowledges projects and ideas that have inspired me. These may be in various states (working?) and are more here for reference
 
 1.  **[ollama-voice-mac](https://github.com/BoilerToad/ollama-voice-mac)** - offline voice assistant using Mistral 7b via Ollama and Whisper speech recognition models
-2.  **[xxx](https://github.com/BoilerToad/xxx)** - xxx 
+2.  **[Automatic Prompt Engineer](https://github.com/BoilerToad/automatic_prompt_engineer)** - This repo contains code for "Large Language Models Are Human-Level Prompt Engineers" 
 3.  **[Stanford-DSPy](https://github.com/BoilerToad/Stanford-DSPy)** - DSPy: Programming with Foundation Models
 4.  **[Choma-core](https://github.com/BoilerToad/chroma-core)** - Chroma - the open-source embedding database
 5.  **[584-final](https://github.com/BoilerToad/584-final)**: Sentence Embeddings using Supervised Contrastive Learning. Danqi Liao.
