@@ -4,6 +4,12 @@ This document lists and describes various GitHub projects and pages which are re
 
 The document is divided into four main sections: Pre-Release (Private) Projects, Public Projects, Projects from DeepLearning.AI, etc, and Projects Inspired by Others.
 
+## Public Projects
+
+These projects are completed and publicly available for use or contribution.
+
+1. **[Project Delta](https://github.com/BoilerToad/projectTBD)**: Placeholder for a publically available project.
+
 ## Pre-Release (Private) Projects
 
 These are projects currently under development or in a pre-release stage. They are not yet publicly available but are significant to the overall development roadmap.
@@ -11,13 +17,6 @@ These are projects currently under development or in a pre-release stage. They a
 1. **[FigLang 2024 Euphemisms](https://github.com/BoilerToad/FigLang-2024-Euphemism)**: This project is the work associated with FigLan 2024 Sharted Task on Euphemisms
 
 2. **Project Beta**: This project related to ...
-
-
-## Public Projects
-
-These projects are completed and publicly available for use or contribution.
-
-1. **[Project Delta](https://github.com/BoilerToad/projectTBD)**: Placeholder for a publically available project.
 
 ## Projects Based on DeepLearningAI, OpenAI, Coursera ..
 
