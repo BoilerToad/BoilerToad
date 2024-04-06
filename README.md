@@ -20,11 +20,12 @@ These are projects currently under development or in a pre-release stage. They a
 
 ## Projects Based on DeepLearningAI, OpenAI, Coursera ..
 
-1. **[Gen-AI-for-everyone](https://github.com/BoilerToad/Gen-AI-for-everyone)**: Generative AI for Everyone
-2. **[Build-Eval-AdvRAG](https://github.com/BoilerToad/Build-Eval-AdvRAG)**
-3. **[xxx](https://github.com/BoilerToad/xxx)**: Prompt Engineering / Fine Tuning LLMs.
-4. **[Align-LLM-DPO](https://github.com/BoilerToad/Align-LLM-DPO)**: Align LLMs with Direct Preference Optimization (DPO).
-5. **[Knowledge-Graphs-for-RAG](https://github.com/BoilerToad/Knowledge-Graphs-for-RAG)**: Knowledge Graphs for RAG.
+1. **[flairNLP](https://github.com/BoilerToad/flairNLP)** - FlairNLP for named entity recognition (NER)
+2. **[Gen-AI-for-everyone](https://github.com/BoilerToad/Gen-AI-for-everyone)**: Generative AI for Everyone
+3. **[Build-Eval-AdvRAG](https://github.com/BoilerToad/Build-Eval-AdvRAG)**
+4. **[xxx](https://github.com/BoilerToad/xxx)**: Prompt Engineering / Fine Tuning LLMs.
+5. **[Align-LLM-DPO](https://github.com/BoilerToad/Align-LLM-DPO)**: Align LLMs with Direct Preference Optimization (DPO).
+6. **[Knowledge-Graphs-for-RAG](https://github.com/BoilerToad/Knowledge-Graphs-for-RAG)**: Knowledge Graphs for RAG.
 
 ## Projects Inspired by Others
 
