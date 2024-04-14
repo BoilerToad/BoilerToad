@@ -25,7 +25,7 @@ These are projects currently under development or in a pre-release stage. They a
 4. **[xxx](https://github.com/BoilerToad/xxx)**: Prompt Engineering / Fine Tuning LLMs.
 5. **[Align-LLM-DPO](https://github.com/BoilerToad/Align-LLM-DPO)**: Align LLMs with Direct Preference Optimization (DPO).
 6. **[Knowledge-Graphs-for-RAG](https://github.com/BoilerToad/Knowledge-Graphs-for-RAG)**: Knowledge Graphs for RAG.
-7. **[Micosoft AutoGen](https://github.com/BoilerToad/Microsoft-autogen)**: Anopen-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.
+7. **[Micosoft AutoGen](https://github.com/BoilerToad/Microsoft-autogen)**: An open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.
 
 ## Projects Inspired by Others
 
