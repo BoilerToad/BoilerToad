@@ -2,11 +2,17 @@
 
 This document lists and describes various GitHub projects and pages which are relevant to my work. This is a living document and will be updated regularly to highlight new ideas and directions.
 
-The document is divided into four main sections: Pre-Release (Private) Projects, Public Projects, Projects from DeepLearning.AI, etc, and Projects Inspired by Others.
+The document is divided into five main sections: Pre-Release (Private) Projects, Research Ideas (PRivate), Public Projects, Projects from DeepLearning.AI, etc, and Projects Inspired by Others.
 
 ## Public Projects
 
 These projects are completed and publicly available for use or contribution.
+
+1. **[Project Delta](https://github.com/BoilerToad/projectTBD)**: Placeholder for a publically available project.
+
+## Research Ideas (Private)
+
+These are various areas of interest that I am researching. 
 
 1. **[Project Delta](https://github.com/BoilerToad/projectTBD)**: Placeholder for a publically available project.
 
