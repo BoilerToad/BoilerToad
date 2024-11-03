@@ -32,6 +32,7 @@ These are projects currently under development or in a pre-release stage. They a
 5. **[Align-LLM-DPO](https://github.com/BoilerToad/Align-LLM-DPO)**: Align LLMs with Direct Preference Optimization (DPO).
 6. **[Knowledge-Graphs-for-RAG](https://github.com/BoilerToad/Knowledge-Graphs-for-RAG)**: Knowledge Graphs for RAG.
 7. **[Micosoft AutoGen](https://github.com/BoilerToad/Microsoft-autogen)**: An open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.
+8. **[Google Distillation with Rationale](https://github.com/BoilerToad/distilling-step-by-step)**: Distilling step-by-step! outperforming larger language models with less training data and smaller model sizes
 
 ## Projects Inspired by Others
 
