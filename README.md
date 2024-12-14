@@ -22,7 +22,7 @@ These are projects currently under development or in a pre-release stage. They a
 
 1. **[FigLang 2024 Euphemisms](https://github.com/BoilerToad/FigLang-2024-Euphemism)**: This project is the work associated with FigLan 2024 Sharted Task on Euphemisms
 
-2. **Project Beta**: This project related to ...
+2. **[PerAnsSumm](https://github.com/BoilerToad/PerAnsSumm)**: This project related to Perspective-aware Healthcare answer summarization, a shared task organized at the CL4Health workshop colocated with NAACL 2025.
 
 ## Projects Based on DeepLearningAI, OpenAI, Coursera ..
 
