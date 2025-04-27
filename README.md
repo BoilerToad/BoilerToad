@@ -38,41 +38,44 @@ These are projects currently under development or in a pre-release stage. They a
 
 This section acknowledges projects and ideas that have inspired me. These may be in various states (working?) and are more here for reference
 
-1.  **[Agentic Data Generation Toolkit](https://github.com/BoilerToad/adgtk)** - Agentic Data Generation Toolkit is designed to provide an interface for both a human user as well as an Agent
-2.  **[flairNLP](https://github.com/BoilerToad/flairNLP)** - FlairNLP for named entity recognition (NER)
-3.  **[ollama-voice-mac](https://github.com/BoilerToad/ollama-voice-mac)** - offline voice assistant using Mistral 7b via Ollama and Whisper speech recognition models
-4.  **[Automatic Prompt Engineer](https://github.com/BoilerToad/automatic_prompt_engineer)** - This repo contains code for "Large Language Models Are Human-Level Prompt Engineers" 
-5.  **[Stanford-DSPy](https://github.com/BoilerToad/Stanford-DSPy)** - DSPy: Programming with Foundation Models
-6.  **[Choma-core](https://github.com/BoilerToad/chroma-core)** - Chroma - the open-source embedding database
-7.  **[584-final](https://github.com/BoilerToad/584-final)**: Sentence Embeddings using Supervised Contrastive Learning. Danqi Liao.
-8.  **[ACLPUB](https://github.com/BoilerToad/ACLPUB)**: The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).
-9.  **[annotated-transformer](https://github.com/BoilerToad/annotated-transformer)**: http://nlp.seas.harvard.edu/2018/04/03/attention.html
-10.  **[BERTopic](https://github.com/BoilerToad/BERTopic)**: Leveraging BERT and c-TF-IDF to create easily interpretable topics. 
-11.  **[BERT_basic](https://github.com/BoilerToad/BERT_basic)**: BERT repository to demonstrate basic functionality
-12.  **[Contrastive-Tension](https://github.com/BoilerToad/Contrastive-Tension)**: State of the art Semantic Sentence Embeddings
-13.  **[COVID-19](https://github.com/BoilerToad/COVID-19)**: Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
-14.  **[diseaseBERT](https://github.com/BoilerToad/diseaseBERT)**: Code and dataset of EMNLP 2020 paper "Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition"
-15.  **[FastChat](https://github.com/BoilerToad/FastChat)**: The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
-16. **[Fine-Tuning-BERT](https://github.com/BoilerToad/Fine-Tuning-BERT)**: Example BERT fine-tuned to perform spam classification
-17. **[huggingface_hub](https://github.com/BoilerToad/huggingface_hub)**: All the open source things related to the Hugging Face Hub.
-18. **[introduction_to_ml_with_python](https://github.com/BoilerToad/introduction_to_ml_with_python)**: Notebooks and code for the book "Introduction to Machine Learning with Python"
-19. **[ISHate](https://github.com/BoilerToad/ISHate)**: This repository contains the dataset and implementation details of the paper "An In-depth Analysis of Implicit and Subtle Hate Speech Messages" accepted at EACL 2023.
-20. **[KPA_2021_shared_task](https://github.com/BoilerToad/KPA_2021_shared_task)**: Shared task hosted by IBM in the ArgMining workshop in EMNLP
-21. **[langchain](https://github.com/BoilerToad/langchain)**: ⚡ Building applications with LLMs through composability ⚡
-22. **[LeafNATS](https://github.com/BoilerToad/LeafNATS)**: Learning Framework for Neural Abstractive Text Summarization
-23. **[llama](https://github.com/BoilerToad/llama)**: Inference code for LLaMA models
-24. **[medium_articles](https://github.com/BoilerToad/medium_articles)**: Scripts/Notebooks used for articles published regarding Time series and asset allocation as reference for a data science class
-25. **[NATS](https://github.com/BoilerToad/NATS)**: Neural Abstractive Text Summarization with Sequence-to-Sequence Models
-26. **[nlp-with-transformers](https://github.com/BoilerToad/nlp-with-transformers)**: Jupyter notebooks for the Natural Language Processing with Transformers book
-27. **[PythonClass](https://github.com/BoilerToad/PythonClass)**: Looks to be stale
-28. **[Reddit-Data-Mining](https://github.com/BoilerToad/Reddit-Data-Mining)**: How to extract and analyse different parts of reddit threads and comments
-29. **[redditDataExtractor](https://github.com/BoilerToad/redditDataExtractor)**: The reddit Data Extractor is a cross-platform GUI tool for downloading almost any content posted to reddit. Downloads from specific users, specific subreddits, users by subreddit, and with filters on the content is supported. Some intelligence is built in to attempt to avoid downloading duplicate external content.
-30. **[rogue-dimensions](https://github.com/BoilerToad/rogue-dimensions)**: replication code for EMNLP 2021 paper
-31. **[sent-summary](https://github.com/BoilerToad/sent-summary)**: Looks to be stale
-32. **[sentence-transformers](https://github.com/BoilerToad/sentence-transformers)**: Multilingual Sentence & Image Embeddings with BERT
-33. **[SimCSE](https://github.com/BoilerToad/SimCSE)**: EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings
-34. **[stl-scraper](https://github.com/BoilerToad/stl-scraper)**: Scrape short-term listings providers (Airbnb)
-35. **[tensor2tensor](https://github.com/BoilerToad/tensor2tensor)**: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
-36. **[text-summarization-tensorflow](https://github.com/BoilerToad/text-summarization-tensorflow)**: Tensorflow seq2seq Implementation of Text Summarization.
+1.  **[HuggingFace for Mac](https://github.com/BoilerToad/HuggingFaceGuidedTourForMac)** - Using HuggingFace with Mac Silicon
+2.  **[LangChain](https://github.com/BoilerToad/langchain)** - Building applications with LLMs through composability
+3.  **[LRE and LRC](https://github.com/BoilerToad/linear-relational)** - Linear Relational Embeddings (LREs) and Linear Relational Concepts (LRCs) for LLMs using PyTorch and Huggingface Transformers.
+4.  **[Agentic Data Generation Toolkit](https://github.com/BoilerToad/adgtk)** - Agentic Data Generation Toolkit is designed to provide an interface for both a human user as well as an Agent
+5.  **[flairNLP](https://github.com/BoilerToad/flairNLP)** - FlairNLP for named entity recognition (NER)
+6.  **[ollama-voice-mac](https://github.com/BoilerToad/ollama-voice-mac)** - offline voice assistant using Mistral 7b via Ollama and Whisper speech recognition models
+7.  **[Automatic Prompt Engineer](https://github.com/BoilerToad/automatic_prompt_engineer)** - This repo contains code for "Large Language Models Are Human-Level Prompt Engineers" 
+8.  **[Stanford-DSPy](https://github.com/BoilerToad/Stanford-DSPy)** - DSPy: Programming with Foundation Models
+9.  **[Choma-core](https://github.com/BoilerToad/chroma-core)** - Chroma - the open-source embedding database
+10.  **[584-final](https://github.com/BoilerToad/584-final)**: Sentence Embeddings using Supervised Contrastive Learning. Danqi Liao.
+11.  **[ACLPUB](https://github.com/BoilerToad/ACLPUB)**: The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).
+12.  **[annotated-transformer](https://github.com/BoilerToad/annotated-transformer)**: http://nlp.seas.harvard.edu/2018/04/03/attention.html
+13.  **[BERTopic](https://github.com/BoilerToad/BERTopic)**: Leveraging BERT and c-TF-IDF to create easily interpretable topics. 
+14.  **[BERT_basic](https://github.com/BoilerToad/BERT_basic)**: BERT repository to demonstrate basic functionality
+15.  **[Contrastive-Tension](https://github.com/BoilerToad/Contrastive-Tension)**: State of the art Semantic Sentence Embeddings
+16.  **[COVID-19](https://github.com/BoilerToad/COVID-19)**: Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+17.  **[diseaseBERT](https://github.com/BoilerToad/diseaseBERT)**: Code and dataset of EMNLP 2020 paper "Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition"
+18.  **[FastChat](https://github.com/BoilerToad/FastChat)**: The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+19. **[Fine-Tuning-BERT](https://github.com/BoilerToad/Fine-Tuning-BERT)**: Example BERT fine-tuned to perform spam classification
+20. **[huggingface_hub](https://github.com/BoilerToad/huggingface_hub)**: All the open source things related to the Hugging Face Hub.
+21. **[introduction_to_ml_with_python](https://github.com/BoilerToad/introduction_to_ml_with_python)**: Notebooks and code for the book "Introduction to Machine Learning with Python"
+22. **[ISHate](https://github.com/BoilerToad/ISHate)**: This repository contains the dataset and implementation details of the paper "An In-depth Analysis of Implicit and Subtle Hate Speech Messages" accepted at EACL 2023.
+23. **[KPA_2021_shared_task](https://github.com/BoilerToad/KPA_2021_shared_task)**: Shared task hosted by IBM in the ArgMining workshop in EMNLP
+24. **[langchain](https://github.com/BoilerToad/langchain)**: ⚡ Building applications with LLMs through composability ⚡
+25. **[LeafNATS](https://github.com/BoilerToad/LeafNATS)**: Learning Framework for Neural Abstractive Text Summarization
+26. **[llama](https://github.com/BoilerToad/llama)**: Inference code for LLaMA models
+27. **[medium_articles](https://github.com/BoilerToad/medium_articles)**: Scripts/Notebooks used for articles published regarding Time series and asset allocation as reference for a data science class
+28. **[NATS](https://github.com/BoilerToad/NATS)**: Neural Abstractive Text Summarization with Sequence-to-Sequence Models
+29. **[nlp-with-transformers](https://github.com/BoilerToad/nlp-with-transformers)**: Jupyter notebooks for the Natural Language Processing with Transformers book
+30. **[PythonClass](https://github.com/BoilerToad/PythonClass)**: Looks to be stale
+31. **[Reddit-Data-Mining](https://github.com/BoilerToad/Reddit-Data-Mining)**: How to extract and analyse different parts of reddit threads and comments
+32. **[redditDataExtractor](https://github.com/BoilerToad/redditDataExtractor)**: The reddit Data Extractor is a cross-platform GUI tool for downloading almost any content posted to reddit. Downloads from specific users, specific subreddits, users by subreddit, and with filters on the content is supported. Some intelligence is built in to attempt to avoid downloading duplicate external content.
+33. **[rogue-dimensions](https://github.com/BoilerToad/rogue-dimensions)**: replication code for EMNLP 2021 paper
+34. **[sent-summary](https://github.com/BoilerToad/sent-summary)**: Looks to be stale
+35. **[sentence-transformers](https://github.com/BoilerToad/sentence-transformers)**: Multilingual Sentence & Image Embeddings with BERT
+36. **[SimCSE](https://github.com/BoilerToad/SimCSE)**: EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings
+37. **[stl-scraper](https://github.com/BoilerToad/stl-scraper)**: Scrape short-term listings providers (Airbnb)
+38. **[tensor2tensor](https://github.com/BoilerToad/tensor2tensor)**: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+39. **[text-summarization-tensorflow](https://github.com/BoilerToad/text-summarization-tensorflow)**: Tensorflow seq2seq Implementation of Text Summarization.
 
 v1.0
