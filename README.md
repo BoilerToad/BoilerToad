@@ -14,7 +14,7 @@ These projects are completed and publicly available for use or contribution.
 
 These are various areas of interest that I am researching. 
 
-1. **[AI SelfDev Development]([https://github.com/BoilerToad/AI-SelfDev-Development))**: Placeholder for a publicly available project.
+1. **[AI SelfDev Development](https://github.com/BoilerToad/AI-SelfDev-Development)**: Placeholder for a publicly available project.
 
 ## Pre-Release (Private) Projects
 
