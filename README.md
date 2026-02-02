@@ -14,13 +14,13 @@ These projects are completed and publicly available for use or contribution.
 
 These are various areas of interest that I am researching. 
 
-1. **[AI SelfDev Development]([https://github.com/BoilerToad/projectTBD](https://github.com/BoilerToad/AI-SelfDev-Development))**: Placeholder for a publically available project.
+1. **[AI SelfDev Development]([https://github.com/BoilerToad/AI-SelfDev-Development))**: Placeholder for a publicly available project.
 
 ## Pre-Release (Private) Projects
 
 These are projects currently under development or in a pre-release stage. They are not yet publicly available but are significant to the overall development roadmap.
 
-1. **[FigLang 2024 Euphemisms](https://github.com/BoilerToad/FigLang-2024-Euphemism)**: This project is the work associated with FigLan 2024 Sharted Task on Euphemisms
+1. **[FigLang 2024 Euphemisms](https://github.com/BoilerToad/FigLang-2024-Euphemism)**: This project is the work associated with FigLan 2024 Shared Task on Euphemisms
 
 2. **[PerAnsSumm](https://github.com/BoilerToad/PerAnsSumm)**: This project related to Perspective-aware Healthcare answer summarization, a shared task organized at the CL4Health workshop colocated with NAACL 2025.
 
